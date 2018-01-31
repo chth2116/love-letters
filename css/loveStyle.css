@@ -64,11 +64,33 @@ header{
 }
 
 p{
-	margin-left: 5%;
+	margin-left: 10%;
+	font-size: 130%;
 	margin-right: 10%;
 	border-style: dotted;
 	border-color: white;
 	padding: 5%;
-	line-height: 20px;
+	line-height: 30px;
 
+}
+
+ul {
+	/*text-align: center;*/
+    list-style-type: none;
+    margin-top:0;
+    padding: 0;
+		padding-bottom: 3%;
+    /* overflow: hidden; */
+
+}
+
+li{
+	float: left;
+}
+li a{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	padding: 16px;
+	color: black;
 }
