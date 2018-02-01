@@ -52,7 +52,16 @@ table {
 
 /*My CSS*/
 body{
-  background-color: pink;
+  /* background-color: pink; */
+	margin: 0px;
+	min-height: 100%;
+	width: 100%;
+	background-color: pink;
+	/*background-image: url("img/marble_backgroung.jpg");*/
+	/* background-image: url("../img/polkaDots.jpg");
+	background-repeat: no-repeat;
+	background-size: cover; */
+	/* background-image:  */
 }
 
 header{
