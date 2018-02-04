@@ -84,12 +84,19 @@ p{
 
 }
 
+nav{
+	background-color: rgba(255,255,255,.5);
+	}
+nav:hover{
+	background-color: rgba(255,255,255,.8);
+}
+
 ul {
 	/*text-align: center;*/
     list-style-type: none;
     margin-top:0;
     padding: 0;
-		padding-bottom: 3%;
+		padding-bottom: 5%;
     /* overflow: hidden; */
 
 }
